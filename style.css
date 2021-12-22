@@ -1,0 +1,37 @@
+body{
+    margin: 20px;
+}
+
+h1{
+    text-align: center;
+    color: rgb(29, 93, 177);
+}
+h2{
+    text-align: center;
+    color: rgb(29, 93, 177);
+}
+
+.contentDiv{
+    display: flex;
+    justify-content: center;
+}
+button{
+    background-color: rgb(29, 93, 177);
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    border: 0px;
+    width: 150px;
+    justify-content: space-between;
+}
+
+.imageDiv{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    
+}
+img{
+    width:400px;
+    height: 400px;
+}
